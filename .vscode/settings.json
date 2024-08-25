@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./blog/python_",
+        "./blog/python_",
+        "./blog/python_",
+        "./python_"
+    ]
+}
